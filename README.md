@@ -2,7 +2,7 @@
 
 React + GitHub Discussions Demo App
 
-This repository is used for experimenting with GitHub Discussions and Q&A badges like Galaxy Brain and Open Sourcerer.
+This repository is used for experimenting with GitHub Discussions 
 
 ## 🚀 Getting Started
 
